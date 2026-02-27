@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I am **Nguyen NGUYEN**, from Switzerland.</br>
-I am a software developper, graphic designer and I make cakes.</br>
+I am a software developer, graphic designer and I make cakes.</br>
 </br>
 Welcome to my profile !
 </br></br>
