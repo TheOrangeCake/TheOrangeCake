@@ -28,38 +28,28 @@ Welcome to my profile !
 <img src="./images/python.svg" alt="Python" height="40" title="Python">
 <img src="./images/javascript.svg" alt="JavaScript" height="40" title="JavaScript">
 <img src="./images/typescript.svg" alt="TypeScript" height="40" title="TypeScript">
-</br>
-</br>
 * Frontend:</br>
 <img src="./images/html.svg" alt="Html" height="40" title="html">
 <img src="./images/css.svg" alt="Css" height="40" title="css">
 <img src="./images/react.svg" alt="React" height="40" title="React">
 <img src="./images/nextjs.svg" alt="Next.js" height="40" style="background-color: white" title="Next.js">
 <img src="./images/tailwind.svg" alt="TailwindCss" height="40" title="TailwindCss">
-</br>
-</br>
 * Backend:</br>
 <img src="./images/spring-boot.svg" alt="Java Spring Boot" height="40" title="Java Spring Boot">
 <img src="./images/strapi.svg" alt="Strapi" height="40" title="Strapi">
 <img src="./images/postgresql.svg" alt="Postgresql" height="40" title="Postgresql">
-</br>
-</br>
 * DevOps/tools:</br>
 <img src="./images/docker.svg" alt="Docker" height="40" title="Docker">
 <img src="./images/dokploy.svg" alt="Dokploy" height="40" title="Dokploy">
 <img src="./images/git.svg" alt="Git" height="40" title="Git">
 <img src="./images/github.svg" alt="Github" height="40" style="background-color: white" title="Github">
-</br>
-</br>
 * Design:</br>
 <img src="./images/figma.svg" alt="Figma" height="40" title="Figma">
 <img src="./images/photoshop.svg" alt="Adobe Photoshop" height="40" title="Adobe Photoshop">
 <img src="./images/indesign.svg" alt="Adobe Indesign" height="40" title="Adobe Indesign">
 <img src="./images/illustrator.svg" alt="Adobe Illustrator" height="40" title="Adobe Illustrator">
-</br>
-</br>
 * Favorite tool:</br>
-<a href="https://www.ikea.com/gb/en/p/gubbroera-rubber-spatula-green-white-70527348" target="_blank">
+<a href="https://www.ikea.com/gb/en/p/gubbroera-rubber-spatula-black-white-50527354/" target="_blank">
   <img src="./images/gubbroera-rubber-spatula.png" alt="Ikea gubbroera spatula" width="200" title="Ikea gubbroera spatula">
 </a>
 
@@ -78,4 +68,4 @@ Through the game, we aim to show young users (ages 7 to 16) a glimpse of what AI
 
 * Email     : nguyennguyen.dev@protonmail.com
 * Website   : [NguyenNguyen.ch](https://www.nguyennguyen.ch)
-* Linkedin  : [Nguyen Nguyen](https://www.linkedin.com/in/)
+* Linkedin  : [Nguyen Nguyen](https://www.linkedin.com/in/nguyennguyenge/)
