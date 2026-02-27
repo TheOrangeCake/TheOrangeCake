@@ -28,8 +28,6 @@ Welcome to my profile !
 <img src="./images/python.svg" alt="Python" height="40" title="Python">&nbsp;
 <img src="./images/javascript.svg" alt="JavaScript" height="40" title="JavaScript">&nbsp;
 <img src="./images/typescript.svg" alt="TypeScript" height="40" title="TypeScript">&nbsp;
-</br>
-</br>
 * Frontend:</br>
 <img src="./images/html.svg" alt="Html" height="40" title="html">&nbsp;
 <img src="./images/css.svg" alt="Css" height="40" title="css">&nbsp;
