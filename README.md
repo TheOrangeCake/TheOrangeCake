@@ -58,10 +58,10 @@ Welcome to my profile !
 
 ## Featured projects
 
-* [AI Canva](https://github.com/TheOrangeCake/Cite-metier-2025/tree/main): This educational game won **first prize in the AI Innovation Lab Hackathon**. It was further elaborated for use at Cité des Métiers 2025 in Geneva.
+* AI Canva: This educational game won **first prize in the AI Innovation Lab Hackathon**. It was further elaborated for use at Cité des Métiers 2025 in Geneva. [Github repository](https://github.com/TheOrangeCake/Cite-metier-2025/).
 Through the game, we aim to show young users (ages 7 to 16) a glimpse of what AI can do in coding, while also highlighting its limitations. The game was played by hundreds of users during the event, and the feedback was very positive.
-* [J42l website](https://www.j42l.ch): Official website for Junior 42 Lausanne. From A to Z: design, develop and deploy. This project code is proprietary.
-* Suite42: Capstone project for 42 Common Core. Finished in April 2026. A micro-service web application designed to help student increase productivity.
+* [J42l website](https://www.j42l.ch): Official website for Junior 42 Lausanne. From A to Z: design, develop and deploy. [Github repository](https://github.com/Junior-42Lausanne/j42l-website).
+* Suite42: Capstone project for 42 Common Core. Finished in April 2026. A micro-service web application designed to help student increase productivity. Source code on demand.
 
 </br>
 
