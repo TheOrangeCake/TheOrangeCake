@@ -59,17 +59,17 @@ Welcome to my profile !
 ## Featured projects
 
 * **AI Canva**:
- * This educational game won **first prize in the AI Innovation Lab Hackathon**. It was further elaborated for use at Cité des Métiers 2025 in Geneva.
- * Through the game, we aim to show young users (ages 7 to 16) a glimpse of what AI can do in coding, while also highlighting its limitations. The game was played by hundreds of users during the event, and the feedback was very positive. [Github repository](https://github.com/TheOrangeCake/Cite-metier-2025/).
- * The game is coded in **Python** and use **Infomaniak Qwen AI API**.
+  * This educational game won **first prize in the AI Innovation Lab Hackathon**. It was further elaborated for use at Cité des Métiers 2025 in Geneva.
+  * Through the game, we aim to show young users (ages 7 to 16) a glimpse of what AI can do in coding, while also highlighting its limitations. The game was played by hundreds of users during the event, and the feedback was very positive. [Github repository](https://github.com/TheOrangeCake/Cite-metier-2025/).
+  * The game is coded in **Python** and use **Infomaniak Qwen AI API**.
 * **[J42l website](https://www.j42l.ch)**:
- * Official website for Junior 42 Lausanne. From A to Z: design, develop and deploy.
- * Prototyped in **Figma** with custom assets made in **Adobe Illustrator**.<br>Frontend in **React**, backend **Node.js** and CMS **Strapi**.<br>Deployed with **Dokploy** and version control with git flow and **Github**.
- * [Github repository](https://github.com/Junior-42Lausanne/j42l-website).
+  * Official website for Junior 42 Lausanne. From A to Z: design, develop and deploy.
+  * Prototyped in **Figma** with custom assets made in **Adobe Illustrator**.<br>Frontend in **React**, backend **Node.js** and CMS **Strapi**.<br>Deployed with **Dokploy** and version control with git flow and **Github**.
+  * [Github repository](https://github.com/Junior-42Lausanne/j42l-website).
 * **Suite42**:
- * Capstone project for 42 Common Core. Finished in April 2026. A micro-service web application designed to help 42 Lausanne student increase productivity.
- * Prototyped in **Figma**.<br>Frontend in **Vuejs**, backend **Java Spring Boot**.<br>Version control **Github**.
- * [Github repository](https://github.com/TheOrangeCake/Suite42)
+  * Capstone project for 42 Common Core. Finished in April 2026. A micro-service web application designed to help 42 Lausanne student increase productivity.
+  * Prototyped in **Figma**.<br>Frontend in **Vuejs**, backend **Java Spring Boot**.<br>Version control **Github**.
+  * [Github repository](https://github.com/TheOrangeCake/Suite42)
 
 </br>
 
