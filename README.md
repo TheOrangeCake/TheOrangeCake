@@ -77,5 +77,4 @@ Welcome to my profile !
 ## Contact me
 
 * Email     : nguyennguyen.dev@protonmail.com
-* Website   : [NguyenNguyen.ch](https://www.nguyennguyen.ch)
 * Linkedin  : [Nguyen Nguyen](https://www.linkedin.com/in/nguyennguyenge/)
