@@ -63,7 +63,7 @@ Welcome to my profile !
   * Through the game, we aim to show young users (ages 7 to 16) a glimpse of what AI can do in coding, while also highlighting its limitations. The game was played by hundreds of users during the event, and the feedback was very positive.
   * The game is coded in **Python** and use **Infomaniak Qwen AI API**.
   * [Github repository](https://github.com/TheOrangeCake/Cite-metier-2025/).
-* **[J42l website](https://www.j42l.ch)**:
+* **J42l website**:
   * Official website for Junior 42 Lausanne. From A to Z: design, develop and deploy.
   * Prototyped in **Figma** with custom assets made in **Adobe Illustrator**.<br>Frontend in **React**, backend **Node.js** and CMS **Strapi**.<br>Deployed with **Dokploy** and version control with git flow and **Github**.
   * [Github repository](https://github.com/Junior-42Lausanne/j42l-website).
