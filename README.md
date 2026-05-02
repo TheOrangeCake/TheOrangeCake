@@ -36,7 +36,8 @@ Welcome to my profile !
 <img src="./images/tailwind.svg" alt="TailwindCss" height="40" title="TailwindCss">&nbsp;
 * Backend:</br>
 <img src="./images/spring-boot.svg" alt="Java Spring Boot" height="40" title="Java Spring Boot">&nbsp;
-<img src="./images/strapi.svg" alt="Strapi" height="40" title="Strapi">&nbsp;
+<img src="./images/strapi.svg" alt="Strapi" height="40" title="Strapi CMS">&nbsp;
+<img src="./images/sanity.png" alt="Strapi" height="40" title="Sanity CMS">&nbsp;
 <img src="./images/postgresql.svg" alt="Postgresql" height="40" title="Postgresql">&nbsp;
 * DevOps/tools:</br>
 <img src="./images/docker.svg" alt="Docker" height="40" title="Docker">&nbsp;
