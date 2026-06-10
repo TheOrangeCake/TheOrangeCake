@@ -8,7 +8,9 @@ Welcome to my profile !
 
 ## About me
 
-* Occupation: Student at [42 Lausanne](https://42lausanne.ch/). Common Core completed, now working on Specialisation.
+* Occupation:
+  * Web developer intern at World Association of Investment Promotion Agencies (WAIPA)
+  * Student at [42 Lausanne](https://42lausanne.ch/).
 * Side activity: **Junior Web Developer** at [Junior 42 Lausanne](https://j42l.ch/).
 * Hackathon: **Winner of AI Innovation Lab Hackathon**. The project, [AI Canva](https://github.com/TheOrangeCake/Cite-metier-2025/tree/main), was further developed for Cité des métiers Genève.
 * Before 42:
