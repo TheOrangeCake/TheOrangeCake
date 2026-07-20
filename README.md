@@ -70,7 +70,7 @@ Welcome to my profile !
   * Official website for Junior 42 Lausanne. From A to Z: design, develop and deploy.
   * Prototyped in **Figma** with custom assets made in **Adobe Illustrator**.<br>Frontend in **React**, backend **Node.js** and CMS **Strapi**.<br>Deployed with **Dokploy** and version control with git flow and **Github**.
   * [Github repository](https://github.com/Junior-42Lausanne/j42l-website).
-* **[Suite42](https://suite42.dev/)**:
+* **Suite42**:
   * Capstone project for 42 Common Core. Finished in April 2026. A micro-service web application designed to help 42 Lausanne student increase productivity.
   * Prototyped in **Figma**.<br>Frontend in **Vuejs**, backend **Java Spring Boot**.<br>Deployed with **Dokploy** and version control with git flow and **Github**.
   * [Github repository](https://github.com/TheOrangeCake/Suite42)
