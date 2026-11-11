@@ -43,9 +43,11 @@ Welcome to my profile !
 <img src="./images/postgresql.svg" alt="Postgresql" height="40" title="Postgresql">&nbsp;
 * DevOps/tools:</br>
 <img src="./images/docker.svg" alt="Docker" height="40" title="Docker">&nbsp;
-<img src="./images/dokploy.svg" alt="Dokploy" height="40" title="Dokploy">&nbsp;
+<img src="./images/dokploy.svg" alt="Dokploy" height="40" title="Dokploy" style=“background-color: black;”>&nbsp;
 <img src="./images/git.svg" alt="Git" height="40" title="Git">&nbsp;
 <img src="./images/github.svg" alt="Github" height="40" title="Github">&nbsp;
+* IT:</br>
+<img src="./images/servicenow" alt="ServiceNow" height="40" title="ServiceNow">&nbsp;
 * Design:</br>
 <img src="./images/figma.svg" alt="Figma" height="40" title="Figma">&nbsp;
 <img src="./images/photoshop.svg" alt="Adobe Photoshop" height="40" title="Adobe Photoshop">&nbsp;
