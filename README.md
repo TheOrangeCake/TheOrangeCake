@@ -9,9 +9,8 @@ Welcome to my profile !
 ## About me
 
 * Occupation:
-  * Web developer intern at World Association of Investment Promotion Agencies (WAIPA)
+  * Technical Student at [CERN](https://home.cern/) (European Organization for Nuclear Research). Working primary on third party integration with CERN in-house ServiceNow instance.
   * Student at [42 Lausanne](https://42lausanne.ch/).
-* Side activity: **Junior Web Developer** at [Junior 42 Lausanne](https://j42l.ch/).
 * Hackathon: **Winner of AI Innovation Lab Hackathon**. The project, [AI Canva](https://github.com/TheOrangeCake/Cite-metier-2025/tree/main), was further developed for Cité des métiers Genève.
 * Before 42:
   * Worked as a cook, which shaped my methodical and rigorous approach to development. This experience honed my attention to detail and stress resistance.
@@ -58,24 +57,6 @@ Welcome to my profile !
 </a>
 
 </br>
-</br>
-
-## Featured projects
-
-* **AI Canva**:
-  * This educational game won **first prize in the AI Innovation Lab Hackathon**. It was further elaborated for use at Cité des Métiers 2025 in Geneva.
-  * Through the game, we aim to show young users (ages 7 to 16) a glimpse of what AI can do in coding, while also highlighting its limitations. The game was played by hundreds of users during the event, and the feedback was very positive.
-  * The game is coded in **Python** and use **Infomaniak Qwen AI API**.
-  * [Github repository](https://github.com/TheOrangeCake/Cite-metier-2025/).
-* **Suite42**:
-  * Capstone project for 42 Common Core. Finished in April 2026. A micro-service web application designed to help 42 Lausanne student increase productivity.
-  * Prototyped in **Figma**.<br>Frontend in **Vuejs**, backend **Java Spring Boot**.<br>Deployed with **Dokploy** and version control with git flow and **Github**.
-  * [Github repository](https://github.com/TheOrangeCake/Suite42)
-* **Swingy**:
-  * An RPG built to demonstrate event-driven architecture, various design patterns and the Model-View-Controller (MVC) pattern, with a swappable view layer that supports both a console interface and a Swing GUI.
-  * The game is coded in **Java**, **Hibernate ORM** and **Swing**.
-  * [Github repository](https://github.com/TheOrangeCake/advance42/tree/main/branch_java/swingy#readme).
-
 </br>
 
 ## Contact me
